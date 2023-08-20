@@ -1,0 +1,32 @@
+[
+  {
+    "label": "",
+    "user": 100,
+    "guest": 20
+  },
+  {
+    "label": "Week 1",
+    "user": 400,
+    "guest": 350
+  },
+  {
+    "label": "Week 2",
+    "user": 150,
+    "guest": 200
+  },
+  {
+    "label": "Week 3",
+    "user": 450,
+    "guest": 300
+  },
+  {
+    "label": "Week 4",
+    "user": 190,
+    "guest": 220
+  },
+  {
+    "label": "",
+    "user": 250,
+    "guest": 43
+  }
+]
