@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const Sidebar = () => {
   const [expandSidebar, setExpandSidebar] = useState("h-24");
   const showSidebar = () => {
-    setExpandSidebar((prev) => (prev === "h-screen" ? "h-24" : "h-screen"));
+    setExpandSidebar((prev) => (prev === "h-[calc(100vh-100px)]" ? "h-24" : "h-[calc(100vh-100px)]"));
   };
 
   return (
